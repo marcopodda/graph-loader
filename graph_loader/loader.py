@@ -11,7 +11,7 @@ import numpy as np
 import sklearn
 
 # useful directories
-ROOT_DIR = Path(".")
+ROOT_DIR = Path(__file__).parent
 DATA_DIR = ROOT_DIR / "DATA"
 REPO_DIR = DATA_DIR / "REPO"
 RAW_DIR = DATA_DIR / "RAW"
