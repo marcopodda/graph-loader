@@ -1,0 +1,11 @@
+name: "Tox21_ER"
+url: "https://ls11-www.cs.uni-dortmund.de/people/morris/graphkerneldatasets/Tox21_ER.zip"
+attributes:
+  undirected: true
+  has_graphlabels: true
+  has_nodelabels: true
+  has_edgelabels: true
+  has_nodeattrs: false
+  has_edgeattrs: false
+
+  

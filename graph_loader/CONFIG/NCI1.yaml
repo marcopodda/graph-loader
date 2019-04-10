@@ -1,0 +1,9 @@
+name: "NCI1"
+url: "https://ls11-www.cs.uni-dortmund.de/people/morris/graphkerneldatasets/NCI1.zip"
+attributes:
+  undirected: true
+  has_graphlabels: true
+  has_nodelabels: true
+  has_edgelabels: false
+  has_nodeattrs: false
+  has_edgeattrs: false
